@@ -79,8 +79,8 @@ ul {
     line-height: calc(31 / 26);
     color: var(--first-logo-color);
     padding-right: 93px;
-    margin-top: 24px;
-    margin-bottom: 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .logo-header {
